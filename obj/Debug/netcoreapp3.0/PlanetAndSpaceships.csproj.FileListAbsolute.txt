@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\bin\Debug\netcoreapp3.0\PlanetAndSpaceships.exe
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\bin\Debug\netcoreapp3.0\PlanetAndSpaceships.deps.json
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\bin\Debug\netcoreapp3.0\PlanetAndSpaceships.runtimeconfig.json
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\bin\Debug\netcoreapp3.0\PlanetAndSpaceships.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\bin\Debug\netcoreapp3.0\PlanetAndSpaceships.dll
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\bin\Debug\netcoreapp3.0\PlanetAndSpaceships.pdb
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\obj\Debug\netcoreapp3.0\PlanetAndSpaceships.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\obj\Debug\netcoreapp3.0\PlanetAndSpaceships.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\obj\Debug\netcoreapp3.0\PlanetAndSpaceships.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\obj\Debug\netcoreapp3.0\PlanetAndSpaceships.dll
+C:\Users\marla\workspace\c#\PlanetAndSpaceships\obj\Debug\netcoreapp3.0\PlanetAndSpaceships.pdb
